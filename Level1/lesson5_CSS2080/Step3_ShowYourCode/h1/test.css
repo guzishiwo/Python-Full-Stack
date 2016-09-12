@@ -1,10 +1,13 @@
 .bg_grey {
     border-style: none;
-    background: grey;
+    background: rgba(170, 198, 172, 0.28);
     padding: 20px 30px 20px 30px;
 }
 .bg {
     border-style: none;
     background: white;
     padding: 20px 30px 20px 30px;
+}
+.blue {
+    font: blue
 }
