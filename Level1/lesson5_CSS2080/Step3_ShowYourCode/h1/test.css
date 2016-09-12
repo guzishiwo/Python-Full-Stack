@@ -1,21 +1,22 @@
 .bg_grey {
-    border-style: solid;
-    border: 0px 0px 0px 20px;
+    border-style: none ;
     border-color: green;
     background: rgba(170, 198, 172, 0.28);
     padding: 20px 30px 20px 30px;
-    margin-bottom: 10px;
+}
+.bg_left {
+    border-style: none none none solid;
+    border-color: green;
+    background: white;
+    padding: 20px 30px 20px 30px;
 }
 .bg {
-    border-style: solid;
-    border-left: 20px;
-    border-color: green;
     background: white;
     padding: 20px 30px 20px 30px;
     margin-bottom: 10px;
 }
 .line {
-    border-bottom: 3px solid  rgba(170, 198, 172, 0.28);
+    border: 3px solid  rgba(170, 198, 172, 0.28);
 }
 .blue {
     font: blue
