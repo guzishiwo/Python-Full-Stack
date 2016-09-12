@@ -1,0 +1,12 @@
+.bg_grey{
+    border-style: none;
+
+
+    background: rgb(157, 139, 148);
+    padding : 20, 30, 20, 30px;
+}
+.bg{
+    border-style: none;
+
+    padding : 20, 30, 20, 30px;
+}
