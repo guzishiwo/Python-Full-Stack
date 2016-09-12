@@ -11,8 +11,7 @@
     margin-bottom: 10px;
 }
 .line {
-    border-style: solid ;
-    height: 10px;
+    border-bottom: 3px solid  rgba(170, 198, 172, 0.28);
 }
 .blue {
     font: blue
