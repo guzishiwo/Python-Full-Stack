@@ -1,9 +1,10 @@
 .bg_grey {
     border-style: none;
-    background: rgb(157, 139, 148);
+    background: grey;
     padding: 20px 30px 20px 30px;
 }
 .bg {
     border-style: none;
+    background: white;
     padding: 20px 30px 20px 30px;
 }
