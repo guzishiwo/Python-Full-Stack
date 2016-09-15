@@ -27,12 +27,16 @@
     background: url('images/stonebrick.png');
     background-size: contain;
     position: absolute;
-    left: 192px
+    left: 192px;
+
 }
 .bg {
     width: 256px;
-    height: auto;
-    position: relative;
+    height: 512px;
+    background-size: 256px 64px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0%);
 }
 .inner_stone_row {
     width: 128px;
@@ -41,6 +45,7 @@
     background-size: contain;
     position: absolute;
     left: 64px;
+
 }
 
 .inner_stone_row_two {
@@ -50,5 +55,29 @@
     background-size: contain;
     position: absolute;
     left: 64px;
-    top: 128px;
+    margin-top: 64px;
+}
+
+.iron_bars {
+    width: 128px;
+    height: 64px;
+    background: url('images/Iron_bars.png');
+    background-size: contain;
+    position: absolute;
+    margin-left: 64px;
+    margin-top: 64px
+}
+.fire {
+    width: 128px;
+    height: 128px;
+    background: url('images/har.gif');
+    box-sizing: border-box;
+    background-size: contain;
+    position: absolute;
+    left: 64px;
+}
+body {
+    margin: 0;
+    background: url('images/brick.jpg');
+    background-size: 150px 150px;
 }
