@@ -4,7 +4,7 @@
     background: rgba(170, 198, 172, 0.28);
     padding: 20px 30px 20px 30px;
 }
-.bg_left {
+.border_left {
     border-style: none none none solid;
     border-color: green;
     background: white;

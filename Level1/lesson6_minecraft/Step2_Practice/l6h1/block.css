@@ -1,0 +1,54 @@
+.block_stone {
+    width: 256px;
+    height: 64px;
+    box-sizing: border-box;
+    background: url('images/cobble_stone.png');
+    background-size: contain;
+}
+
+.block_stone_brick_row {
+    width: 256px;
+    height: 64px;
+    box-sizing: border-box;
+    background: url('images/stonebrick.png');
+    background-size: contain;
+}
+.block_stone_brick_column {
+    width: 64px;
+    height: 128px;
+    box-sizing: border-box;
+    background: url('images/stonebrick.png');
+    background-size: contain;
+}
+.block_stone_brick_column_right {
+    width: 64px;
+    height: 128px;
+    box-sizing: border-box;
+    background: url('images/stonebrick.png');
+    background-size: contain;
+    position: absolute;
+    left: 192px
+}
+.bg {
+    width: 256px;
+    height: auto;
+    position: relative;
+}
+.inner_stone_row {
+    width: 128px;
+    height: 64px;
+    background: url('images/inner_cobble_stone.png');
+    background-size: contain;
+    position: absolute;
+    left: 64px;
+}
+
+.inner_stone_row_two {
+    width: 128px;
+    height: 64px;
+    background: url('images/inner_cobble_stone.png');
+    background-size: contain;
+    position: absolute;
+    left: 64px;
+    top: 128px;
+}
