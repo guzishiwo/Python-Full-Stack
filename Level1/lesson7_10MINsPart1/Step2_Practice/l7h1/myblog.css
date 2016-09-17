@@ -1,0 +1,7 @@
+.ui.very.padded.segment.masterhead {
+    height: 400px;
+    background: url('images/star_banner.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
