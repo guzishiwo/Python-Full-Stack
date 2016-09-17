@@ -2,7 +2,7 @@
     width: 256px;
     height: 64px;
     box-sizing: border-box;
-    background: url('images/cobble_stone.png');
+    background: url('wuwei/images/cobble_stone.png');
     background-size: contain;
 }
 
@@ -10,21 +10,21 @@
     width: 256px;
     height: 64px;
     box-sizing: border-box;
-    background: url('images/stonebrick.png');
+    background: url('wuwei/images/stonebrick.png');
     background-size: contain;
 }
 .block_stone_brick_column {
     width: 64px;
     height: 128px;
     box-sizing: border-box;
-    background: url('images/stonebrick.png');
+    background: url('wuwei/images/stonebrick.png');
     background-size: contain;
 }
 .block_stone_brick_column_right {
     width: 64px;
     height: 128px;
     box-sizing: border-box;
-    background: url('images/stonebrick.png');
+    background: url('wuwei/images/stonebrick.png');
     background-size: contain;
     position: absolute;
     left: 192px;
@@ -41,7 +41,7 @@
 .inner_stone_row {
     width: 128px;
     height: 64px;
-    background: url('images/inner_cobble_stone.png');
+    background: url('wuwei/images/inner_cobble_stone.png');
     background-size: contain;
     position: absolute;
     left: 64px;
@@ -51,7 +51,7 @@
 .inner_stone_row_two {
     width: 128px;
     height: 64px;
-    background: url('images/inner_cobble_stone.png');
+    background: url('wuwei/images/inner_cobble_stone.png');
     background-size: contain;
     position: absolute;
     left: 64px;
@@ -61,7 +61,7 @@
 .iron_bars {
     width: 128px;
     height: 68px;
-    background: url('images/Iron_bars.png');
+    background: url('wuwei/images/Iron_bars.png');
     background-size: contain;
     position: absolute;
     margin-left: 64px;
@@ -70,7 +70,7 @@
 .fire {
     width: 128px;
     height: 128px;
-    background: url('images/har.gif');
+    background: url('wuwei/images/har.gif');
     box-sizing: border-box;
     background-size: contain;
     position: absolute;
@@ -78,6 +78,6 @@
 }
 body {
     margin: 0;
-    background: url('images/brick.jpg');
+    background: url('wuwei/images/brick.jpg');
     background-size: 150px 150px;
 }
