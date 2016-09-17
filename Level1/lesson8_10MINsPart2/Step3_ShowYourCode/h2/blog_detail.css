@@ -1,0 +1,12 @@
+/*.ui.very.padded.segment.blog_detail {*/
+    /*height: 100%;*/
+    /*background: url('images/star_banner.jpg');*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: cover;*/
+/*}*/
+body {
+    background: url('images/star_banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
