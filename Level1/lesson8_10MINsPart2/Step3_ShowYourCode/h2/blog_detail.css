@@ -8,5 +8,7 @@ body {
     background: url('images/star_banner.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    margin-left: 300px;
+    margin-right: 300px;
 }
 
